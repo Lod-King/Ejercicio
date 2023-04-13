@@ -1,0 +1,17 @@
+.cajita{
+    padding-top: 1px;
+    border: 2px solid black;
+    width: 20%;
+    background-color: aqua;
+    margin-left: 10px;
+}
+
+div ul li{
+    list-style: none;
+    padding: 1px;
+    border-bottom: 2px solid black;
+}
+.cajita:hover{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
